@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is the home of [Speckle.Guide](https://speckle.guide/) - the home of our user guides and dev docs. The guide is split into three sections:
+This is the home of [Speckle.Guide](https://speckle.guide/) - the home of our user guides and dev docs. The guide is split into two sections:
 
 - `/user`: practical guides for end users
 - `/dev`: developer documentation
@@ -15,19 +15,24 @@ This repo is a vuepress site. To get up and running, just run:
 
 ### npm
 
-1. `npm run dev`
+```
+npm run dev
+```
 
 ### yarn
-
-1. `yarn`
-1. `yarn dev`
-
+```
+   yarn
+   yarn dev
+```
 ## Contributing
 
 If you would like to expand on any of the sections, please feel free! We are also particularly interested in use cases and examples. If you have a cool workflow or use case that you think would be helpful to the community, we'd be happy to have it in the guide!
-
-Please make sure you read the [contribution guidelines](.github/CONTRIBUTING.md) for an overview of the best practices we try to follow.
-
+## Future Features (Pull Request Welcome!)
+Please see [contribution guidelines](.github/CONTRIBUTING.md) for an overview of the best practices we try to follow and help out :)
+## Philosophy
+- Cut the crap and start building an app right away
+- Read first and then code.
+- Whenever there is bug read the docs 
 ## Community
 
 The Speckle Community hangs out on [the forum](https://speckle.community), do join and introduce yourself & feel free to ask us questions!
